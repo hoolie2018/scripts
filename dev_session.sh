@@ -1,6 +1,6 @@
 
 #!/bin/bash
-# dev-session.sh
+# dev-session.sh 123
 # Opens a tmux session with each server in a pane, runs a command then drops to shell
  
 SESSION="servers"
